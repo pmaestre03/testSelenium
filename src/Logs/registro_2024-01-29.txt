@@ -1,0 +1,7 @@
+2024-01-29 17:45:22 - Inicio de sesión por el usuario: test@test.com
+2024-01-29 18:05:19 - Inicio de sesión por el usuario: test@test.com
+2024-01-29 19:26:49 - Inicio de sesión por el usuario: marcelo@gmail.com
+2024-01-29 19:27:24 - Inicio de sesión por el usuario: marcelo@gmail.com
+2024-01-29 19:28:17 - Inicio de sesión por el usuario: marcelo@gmail.com
+2024-01-29 19:28:49 - Inicio de sesión por el usuario: marcelo@gmail.com
+2024-01-29 19:32:46 - Inicio de sesión por el usuario: marcelo@gmail.com

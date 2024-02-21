@@ -1,0 +1,10 @@
+2024-01-30 15:54:28 - Inicio de sesión por el usuario: paco@paco.com
+2024-01-30 15:55:11 - Inicio de sesión por el usuario: paco@paco.com
+2024-01-30 15:57:00 - Inicio de sesión por el usuario: paco@paco.com
+2024-01-30 16:12:18 - Inicio de sesión por el usuario: paco@paco.com
+2024-01-30 16:26:45 - Inicio de sesión por el usuario: paco@paco.com
+2024-01-30 15:27:05 - Inicio de sesión por el usuario: test@test.com
+2024-01-30 15:53:14 - Inicio de sesión por el usuario: test@test.com
+2024-01-30 16:47:17 - Inicio de sesión por el usuario: test@test.com
+2024-01-30 18:57:06 - Intento de inicio de sesión fallido por el usuario: test@test.com
+2024-01-30 18:57:35 - Inicio de sesión por el usuario: pepe@pepe.com

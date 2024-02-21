@@ -1,0 +1,902 @@
+/* header.php */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  margin-bottom: 150px;
+}
+
+header {
+  background-color: #454546;
+  color: #fff;
+  padding: 0 10px;
+  text-align: center;
+  margin: 0;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  margin: 0;
+  text-align: center;
+}
+
+.button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+.title {
+  margin-left: 30px;
+}
+
+.title_logout {
+  margin-left: 80px;
+}
+
+.button-login {
+  background-color: #3498db;
+}
+
+.add-option {
+  margin: 10px 50px;
+}
+
+#signupButton {
+  font-size: 20px;
+  border-radius: 4px;
+}
+
+#logoutButton a{
+  text-decoration: none;
+  color: white;
+}
+
+.button-signup {
+  width: 350px;
+  border-radius: 4px;
+  font-size: 20px;
+}
+
+.button-container img {
+  width: 20px;
+  height: 20px;
+}
+
+#homeButton {
+  padding: 14px;
+}
+
+#dashboardButton {
+  padding-top: 20px;
+  font-size: 16px;
+}
+
+/* footer.php */
+
+.gif-container {
+  text-align: center;
+}
+
+
+body.footer {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+footer {
+  background-color: #454546;
+  color: #fff;
+  padding: 0 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 98.95%;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.contact-list {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+}
+
+.footer-links {
+  text-align: right;
+}
+
+.footer-links p {
+  margin: 0;
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 40px;
+}
+
+.contact-list p {
+  margin: 30px 30px;
+  padding: 5px;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+}
+
+.contact-list p img {
+  margin-left: 10px;
+}
+
+.contact-list p a {
+  color: white;
+}
+
+
+
+/* index.php */
+
+body.index {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  margin-bottom: 150px;
+}
+
+.contenedor_indice {
+  margin-top: 5%;
+}
+
+.papeletas {
+  position: absolute;
+  pointer-events: none;
+  z-index: -999;
+}
+
+.papeleta1 {
+  left: 50px;
+  width: 100px;
+  animation: papeletas 43s linear infinite;
+}
+
+.papeleta2 {
+  left: 350px;
+  width: 100px;
+  animation: papeletas 20s linear infinite;
+}
+
+.papeleta3 {
+  left: 650px;
+  width: 100px;
+  animation: papeletas 15s linear infinite;
+}
+
+.papeleta4 {
+  right: 650px;
+  width: 100px;
+  animation: papeletas 56s linear infinite;
+}
+
+.papeleta5 {
+  right: 350px;
+  width: 100px;
+  animation: papeletas 7s linear infinite;
+}
+
+.papeleta6 {
+  right: 50px;
+  width: 100px;
+  animation: papeletas 26s linear infinite;
+}
+
+@keyframes papeletas {
+  0% {
+    top: -30%;
+  }
+
+  100% {
+    top: 85%;
+  }
+}
+
+.parrafo_indice {
+  font-size: 20px;
+}
+
+/* dashboard.php */
+body.dashboard {
+  font-family: Arial, sans-serif;
+  width: 100%;
+  margin: 0;
+  overflow-y: auto;
+  margin-bottom: 150px;
+}
+
+.user-info {
+  margin: 40px auto 80px auto;
+  width: 40%;
+  background-color: #454546;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  font-size: 32px;
+}
+
+.dashboard-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.dashboard-box {
+  width: 40%;
+  margin: 20px;
+  padding: 40px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.dashboard-box h2,
+.user-info h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+/* create_poll.php */
+
+.create_poll {
+  text-align: center;
+}
+
+.crear_encuesta {
+  margin-top: 20px;
+}
+
+.poll-container {
+  max-width: 600px;
+  margin: 15px auto 50px auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  max-height: 650px;
+  overflow-y: auto;
+}
+
+/* login.php */
+
+body.login {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  margin-bottom: 150px;
+}
+
+.content-paragraph {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.content-paragraph p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.login-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 12px;
+  font-size: 18px;
+}
+
+.username,
+.password {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.button-login {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 18px 24px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.button-login:hover {
+  background-color: #2980b9;
+}
+
+/* Logout.php */
+
+body.logout {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  margin-bottom: 150px;
+}
+
+.logout-container {
+  max-width: 600px;
+  margin: 250px auto;
+  padding: 30px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.logout-container p {
+  font-size: 32px;
+  line-height: 1.6;
+}
+
+/* feedback */
+
+#notification-container, #notification-container-dinamic {
+  position: fixed;
+  top: 100px;
+  right: 10px;
+  max-width: 400px;
+  z-index: 9999;
+  margin-bottom: 150px;
+  display: flex;
+  flex-direction: column;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.notification {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.close-button {
+  background-color: #555;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  float: right;
+}
+
+/* list_polls.php */
+
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* register.php */
+
+.register-container {
+  max-width: 400px;
+  margin: 17px auto;
+  padding: 15px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.register-container h1 {
+  font-size: 1.2em;
+}
+
+.register-container label {
+  font-size: 0.9em;
+}
+
+.register-container input {
+  padding: 1px;
+  margin-bottom: 1px;
+}
+
+.register-container select {
+  padding: 1px;
+  margin-bottom: 1px;
+}
+
+.register-container button {
+  padding: 1px;
+}
+
+.imagen-correcto,
+.imagen-correcto2,
+.imagen-correcto3,
+.imagen-correcto4,
+.imagen-correcto5,
+.imagen-correcto6,
+.imagen-correcto7,
+.imagen-correcto8,
+.imagen-correcto9 {
+  display: none;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+input {
+  width: calc(100% - 30px);
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  transition: background-color 0.3s;
+}
+
+input::placeholder {
+  color: #999;
+}
+
+.enviar-registro[type="submit"] {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.enviar-registro[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+#pais-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+#pais {
+  width: calc(100% - 30px);
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  appearance: none;
+  background: url("https://cdn2.iconfinder.com/data/icons/flags/flags/16/GB.png") no-repeat right center;
+  background-size: 20px;
+  cursor: pointer;
+}
+
+#pais::-ms-expand {
+  display: none;
+}
+
+#pais option[value=""] {
+  display: none;
+}
+
+#pais:focus {
+  border: 1px solid #4caf50;
+}
+
+#pais:hover {
+  border: 1px solid #4caf50;
+}
+
+button[type="submit"] {
+  width: calc(100% - 30px);
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 15px;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+input:focus {
+  background-color: #e6f7ff;
+}
+
+input::placeholder {
+  color: #999;
+}
+
+.campo-desabilitado {
+  background-color: #f2f2f2;
+  color: #666;
+  cursor: not-allowed;
+}
+
+.register-info {
+  margin: 10px auto 0px auto;
+  width: 40%;
+  background-color: #454546;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  font-size: 32px;
+}
+
+/* dashboard.php */
+body.dashboard {
+  font-family: Arial, sans-serif;
+  width: 100%;
+  margin: 0;
+  overflow-y: auto;
+  margin-bottom: 150px;
+}
+
+.user-info {
+  margin: 40px auto 80px auto;
+  width: 40%;
+  background-color: #454546;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  font-size: 32px;
+}
+
+.dashboard-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.dashboard-box {
+  width: 40%;
+  margin: 20px;
+  padding: 40px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.dashboard-box h2,
+.user-info h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+/* graphics.php */
+body.graphics {
+  overflow-y: auto;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  margin-bottom: 150px;
+}
+
+#pollName {
+  margin-top: 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  margin: auto;
+  margin-bottom: 60px;
+}
+
+.chart-container {
+  width: 55%;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-top: 80px;
+}
+
+#graficoQueso-container {
+  width: 30%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.chart-container p {
+  text-align: center;
+  font-size: 20px;
+}
+
+/* invite.php */
+
+.invite-form {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.invite-form label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+.invite-form input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 20px;
+  box-sizing: border-box;
+}
+
+.invite-form button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+#notification-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* vote_poll.css */
+
+.user-info {
+  margin-bottom: 0px;
+  ;
+}
+
+.box_img_vote img {
+  max-width: 200px;
+  max-height: 200px;
+  margin: 0 auto;
+}
+
+#formVote {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 50px;
+  margin-top: 0px;
+}
+
+#formVote table {
+  border-collapse: collapse;
+  width: 200px;
+  margin: 10px;
+}
+
+#formVote table th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#formVote table th {
+  background-color: #f2f2f2;
+
+}
+
+#labelVote {
+  text-align: center;
+  display: grid;
+  font-size: 26px;
+}
+
+#formVote table img {
+  max-width: 200px;
+  max-height: 200px;
+  height: auto;
+  margin-top: 0;
+}
+
+#buttonVote {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  margin-top: 10px;
+  width: 500px;
+}
+
+#buttonVote:hover {
+  background-color: #45a049;
+}
+
+.box_img_vote {
+  margin-bottom: 0;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.publica {
+  background-color: green;
+}
+
+.oculta {
+  background-color: lightgray;
+}
+
+.finalizada {
+  background-color: red;
+}
+
+.privada {
+  background-color: blue;
+  color: white;
+}
+
+#visibilidad_encuesta,
+#visibilidad_respuestas,
+#bloqueo {
+  width: calc(100% - 30px);
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  appearance: none;
+  background: url("https://cdn2.iconfinder.com/data/icons/flags/flags/16/GB.png") no-repeat right center;
+  background-size: 20px;
+  cursor: pointer;
+}
+
+#visibilidad_encuesta::-ms-expand,
+#visibilidad_respuestas::-ms-expand,
+#bloqueo::-ms-expand {
+  display: none;
+}
+
+#visibilidad_encuesta option[value=""],
+#visibilidad_respuestas option[value=""],
+#bloqueo option[value=""] {
+  display: none;
+}
+
+#visibilidad_encuesta:focus,
+#visibilidad_respuestas:focus,
+#bloqueo:focus {
+  border: 1px solid #4caf50;
+}
+
+#visibilidad_encuesta:hover,
+#visibilidad_respuestas:hover,
+#bloqueo {
+  border: 1px solid #4caf50;
+}
+
+.button-reject[type="submit"] {
+  background-color: #ff0000d5;
+}
+
+.button-reject:hover[type="submit"] {
+  background-color: #c00101;
+}
+
+#none {
+         cursor:  default;
+}
+
+.dashboard-box {
+         cursor: pointer;
+}

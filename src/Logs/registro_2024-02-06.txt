@@ -1,0 +1,44 @@
+2024-02-06 15:52:59 - Inicio de sesión por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 15:53:05 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 15:53:17 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:35:53 - Inicio de sesión por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:36:00 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:36:31 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:37:51 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:37:54 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:38:15 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:38:32 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:38:46 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:40:01 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:40:10 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:43:58 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:44:23 - Inicio de sesión por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:44:48 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:45:13 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:45:22 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:46:15 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:46:48 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:46:56 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:47:02 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:47:07 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:47:49 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:47:52 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:48:36 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:48:53 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:49:06 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:49:58 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:50:03 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:51:04 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:51:13 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:51:43 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:51:49 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:51:57 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:54:29 - Voto registrado
+2024-02-06 16:55:59 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:56:11 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:56:20 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 19:16:32 - Inicio de sesión por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-06 16:31:07 - Intento de inicio de sesión fallido por el usuario: marcelogr2004@gmail.com
+2024-02-06 16:31:21 - Inicio de sesión por el usuario: marcelogr2004@gmail.com
+2024-02-06 16:44:25 - Inicio de sesión por el usuario: marcelogr2004@gmail.com
+2024-02-06 19:03:52 - Inicio de sesión por el usuario: marcelogr2004@gmail.com

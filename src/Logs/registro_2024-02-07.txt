@@ -1,0 +1,32 @@
+2024-02-07 18:34:02 - El usuario: hola@gmail.com ha sido creado correctamente
+2024-02-07 18:35:21 - Intento de inicio de sesión fallido por el usuario: hola@hola.com
+2024-02-07 18:38:15 - Condiciones aceptadas por el usuario: 
+2024-02-07 18:50:31 - Encuesta editada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 18:53:07 - Voto registrado
+2024-02-07 18:56:35 - Voto registrado
+2024-02-07 19:00:34 - Voto registrado
+2024-02-07 19:06:27 - Encuesta editada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:24:17 - Contraseña confirmada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:30:31 - Encuesta editada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:30:42 - Contraseña confirmada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:31:16 - Encuesta editada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:31:27 - Contraseña confirmada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:31:56 - Encuesta editada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:34:39 - Contraseña confirmada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:43:24 - Encuesta editada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:45:49 - Encuesta editada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:46:15 - Encuesta editada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 19:46:27 - Voto registrado
+2024-02-07 19:52:37 - El usuario: marcelogr2004@gmail.com ha sido creado correctamente
+2024-02-07 19:52:59 - Condiciones aceptadas por el usuario: 
+2024-02-07 19:53:36 - Contraseña confirmada por el usuario: marcelogr2004@gmail.com
+2024-02-07 19:59:06 - Voto registrado
+2024-02-07 19:59:18 - Contraseña confirmada por el usuario: marcelogr2004@gmail.com
+2024-02-07 20:04:43 - Inicio de sesión por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 20:17:56 - Cambio de contraseña realizada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 20:18:12 - Contraseña confirmada por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 20:27:04 - Voto registrado
+2024-02-07 20:28:32 - Voto registrado
+2024-02-07 20:41:09 - Inicio de sesión por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-07 20:42:37 - Intento de inicio de sesión fallido por el usuario: marcelogr2004@gmail.com
+2024-02-07 20:42:45 - Inicio de sesión por el usuario: marcelogr2004@gmail.com

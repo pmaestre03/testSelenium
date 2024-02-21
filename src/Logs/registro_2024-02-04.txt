@@ -1,0 +1,36 @@
+2024-02-04 17:07:19 - Intento de inicio de sesión fallido por el usuario: test@test.com
+2024-02-04 17:07:28 - Intento de inicio de sesión fallido por el usuario: test@test.com
+2024-02-04 17:07:51 - Intento de inicio de sesión fallido por el usuario: paco@paco.com 
+2024-02-04 17:08:01 - Inicio de sesión por el usuario: paco@paco.com
+2024-02-04 18:12:46 - Intento de inicio de sesión fallido por el usuario: test@test.com
+2024-02-04 18:12:58 - Intento de inicio de sesión fallido por el usuario: pepe@pepe.com
+2024-02-04 18:13:05 - Intento de inicio de sesión fallido por el usuario: test@test.com
+2024-02-04 18:14:27 - Intento de inicio de sesión fallido por el usuario: paco@paco.com
+2024-02-04 18:14:56 - Inicio de sesión por el usuario: paco@paco.com
+2024-02-04 14:08:18 - Intento de inicio de sesión fallido por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 14:09:57 - El usuario: pmaestrefernandez.cf@iesesteveterradas.cat ha sido creado correctamente
+2024-02-04 18:53:43 - Condiciones aceptadas por el usuario: 
+2024-02-04 19:02:30 - El usuario: maestrepau478@gmail.com ha sido creado correctamente
+2024-02-04 19:04:10 - Condiciones aceptadas por el usuario: 
+2024-02-04 19:31:48 - Condiciones rechazadas por el usuario: 
+2024-02-04 19:40:48 - Inicio de sesión por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 20:26:01 - Inicio de sesión por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 20:56:20 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 20:56:31 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 20:56:41 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:00:29 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:00:46 - Contraseña confirmada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:03:54 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:03:59 - Encuesta editada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:23:37 - Cambio de contraseña incorrecto por el usuario: 
+2024-02-04 21:23:37 - Cambio de contraseña realizada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:24:01 - Cambio de contraseña incorrecto por el usuario: 
+2024-02-04 21:24:15 - Cambio de contraseña realizada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:25:27 - Cambio de contraseña incorrecto por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:25:34 - Cambio de contraseña incorrecto por el usuario: 
+2024-02-04 21:33:59 - Cambio de contraseña incorrecto por el usuario: 
+2024-02-04 21:35:36 - Cambio de contraseña incorrecto por el usuario: 
+2024-02-04 21:36:12 - Cambio de contraseña incorrecto por el usuario: 
+2024-02-04 21:37:12 - Cambio de contraseña incorrecto por el usuario: 
+2024-02-04 21:37:27 - Cambio de contraseña realizada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-04 21:37:47 - Cambio de contraseña realizada por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat

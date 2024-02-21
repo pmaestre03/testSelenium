@@ -1,0 +1,7 @@
+2024-01-26 15:54:16 - Usuario o contraseña incorrecto
+2024-01-26 15:59:04 - Usuario o contraseña incorrecto
+2024-01-26 16:03:47 - Usuario o contraseña incorrecto
+2024-01-26 16:04:01 - Usuario o contraseña incorrecto
+2024-01-26 16:11:26 - Intento de inicio de sesión fallido para el usuario: 4ersd@esswef.com
+2024-01-26 16:12:03 - Intento de inicio de sesión fallido por el usuario: jose@jose.com
+2024-01-26 16:37:02 - Intento de inicio de sesión fallido por el usuario: test@test.com

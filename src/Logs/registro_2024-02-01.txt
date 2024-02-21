@@ -1,0 +1,14 @@
+2024-02-01 06:58:39 - Inicio de sesión por el usuario: marcelogr2004@gmail.com
+2024-02-01 19:20:38 - El usuario: marcelogr2004@gmail.com ha sido creado correctamente
+2024-02-01 19:21:32 - Condiciones aceptadas por el usuario: 
+2024-02-01 19:34:20 - Inicio de sesión por el usuario: marcelogr2004@gmail.com
+2024-02-01 20:03:09 - El usuario: mgonzalezramirez.cf@iesesteveterradas.cat ha sido creado correctamente
+2024-02-01 20:12:14 - Condiciones aceptadas por el usuario: 
+2024-02-01 20:58:20 - El usuario: mgonzalezramirez.cf@iesesteveterradas.cat ha sido creado correctamente
+2024-02-01 21:18:53 - El usuario: mgonzalezramirez.cf@iesesteveterradas.cat ha sido creado correctamente
+2024-02-01 21:31:16 - Inicio de sesión por el usuario: mgonzalezramirez.cf@iesesteveterradas.cat
+2024-02-01 19:26:15 - Inicio de sesión por el usuario: paco@paco.com
+2024-02-01 20:09:57 - Inicio de sesión por el usuario: paco@paco.com
+2024-02-01 20:31:47 - Inicio de sesión por el usuario: paco@paco.com
+2024-02-01 20:32:11 - Intento de inicio de sesión fallido por el usuario: pmaestrefernandez.cf@iesesteveterradas.cat
+2024-02-01 20:41:54 - Condiciones aceptadas por el usuario: 

@@ -1,0 +1,4 @@
+2024-02-21 18:20:32 - El usuario: enric@test.com ha sido creado correctamente
+2024-02-21 18:20:59 - Condiciones aceptadas por el usuario: 
+2024-02-21 18:21:07 - Intento de inicio de sesión fallido por el usuario: enric@test.com
+2024-02-21 18:21:13 - Inicio de sesión por el usuario: enric@test.com
